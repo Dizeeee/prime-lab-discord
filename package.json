@@ -1,0 +1,25 @@
+{
+  "name": "prime-lab-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dizeeee/prime-lab-discord.git"
+  },
+  "author": "Jack Malcom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dizeeee/prime-lab-discord/issues"
+  },
+  "homepage": "https://github.com/Dizeeee/prime-lab-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.1"
+  }
+}
