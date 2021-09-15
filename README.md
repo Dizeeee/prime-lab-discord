@@ -8,6 +8,6 @@ You need Node >=16.8 to run this example, (check your version with `node -v`) if
 
 ## Next Steps
 
-[discord.js] provides great documentation with lots of examples, so it's definitely worthwhile to get used to reading it. If you're stuck on something though, just google it. There are tons of resources online on StackOverflow and blogs that will probably give you what you're looking for!
+[discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) provides great documentation with lots of examples, so it's definitely worthwhile to get used to reading it. If you're stuck on something though, just google it. There are tons of resources online on StackOverflow and blogs that will probably give you what you're looking for!
 
 Have fun!
